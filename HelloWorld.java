@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("Ehemada Asa oyala ");
         System.out.println("Just do it");
         System.out.println("Beep Beep");
+        System.out.println("Beep Beep 2");
 
     }
 }
